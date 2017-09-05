@@ -1,0 +1,19 @@
+* {
+
+
+}
+
+.jumbotron text-center {
+	border: 1px solid #dddddd;
+	 font-family: arial, sans-serif;
+	 width: 100%;
+ 	
+ }     
+  
+  .form-group {
+    overflow: auto;
+    margin-left:auto;
+    margin-right: 70px;
+    padding: 10px;
+} 
+
