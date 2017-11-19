@@ -15,7 +15,7 @@ var submitButton = document.getElementById("submitButton");
 console.log(submitButton);
 
 submitButton.addEventListener("click", function(){
-      alert("Yor application was successfully submited!");
+      alert("Your application was successfully submited!");
  })
  var target = (" ");
 
